@@ -11,7 +11,7 @@ sudo npm install
 - node get_jandan first/last page  
 
 ex:
-node get_jandan
+node get_jandan  
 node get_jandan 900 901
 
 <img src="https://goo.gl/5dq0iv"
