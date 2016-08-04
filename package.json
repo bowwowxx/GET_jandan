@@ -1,0 +1,11 @@
+{
+  "name": "bowwowGo",
+  "version": "0.0.1",
+  "description": "get jandan.net ooxx",
+  "private": true,
+  "main": "get_jandan.js",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
